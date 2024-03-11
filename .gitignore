@@ -129,6 +129,7 @@ env.bak/
 venv.bak/
 kidney
 kidney/
+artifacts
 
 # Spyder project settings
 .spyderproject
